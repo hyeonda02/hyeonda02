@@ -61,7 +61,7 @@
 
 ##### 🥈 My Rank
 <div align=center>
-<img src="http://mazandi.herokuapp.com/api?handle=dadah&theme=warm"/>
+
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dadah)](https://solved.ac/dadah)
 
