@@ -9,9 +9,9 @@
 </div>
 
 ##### 💕Contact Me
-<div align = center>
+<div align = left>
 <p>
-<a href="https://hyeondaya.tistory.com/m/"><img src="https://img.shields.io/badge/My blog-A9BCF5?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=https://hyeondaya.tistory.com/m/"/></a>
+<a href="https://hyeonda02.github.io/"><img src="https://img.shields.io/badge/My blog-A9BCF5?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=https://hyeondaya.tistory.com/m/"/></a>
 <a href="인스타그램 주소" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 </p>
 
@@ -19,7 +19,7 @@
 <hr>
 
 ##### 📚 Used at Least Once
-<div align=center>
+<div align=left>
 
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
 <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
@@ -38,7 +38,7 @@
 
 
 ##### ⚒️ Tools
-<div align=center>
+<div align=left>
 <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white"> 
 <img src="https://img.shields.io/badge/Eclipse IDE -2C2255?style=for-the-badge&logo=Eclipse IDE&logoColor=white"> 
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white">
@@ -48,7 +48,7 @@
 <hr>
 
 ##### 💖 Github Stats
-<div align=center>
+<div align=left>
 <p>
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeonda02&show_icons=true&theme=dracula)
@@ -60,7 +60,7 @@
 
 
 ##### 🥈 My Rank
-<div align=center>
+<div align=left>
 
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dadah)](https://solved.ac/dadah)
