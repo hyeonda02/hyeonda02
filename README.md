@@ -1,5 +1,5 @@
 
-<div align = center>
+<div align = left>
 
 #### Hello I'm Dahyeon 👋
 
