@@ -18,6 +18,15 @@
 </div>
 <hr>
 
+##### 🌱 Interested in
+
+<div align=left>
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white">
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white">
+</div>
+<hr>
+
 ##### 📚 Used at Least Once
 <div align=left>
 
@@ -31,7 +40,7 @@
  <br>
  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
  <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white">
+ <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white">
 
 
  </div>
@@ -50,8 +59,6 @@
 ##### 💖 Github Stats
 <div align=left>
 <p>
-
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeonda02&show_icons=true&theme=dracula)
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyeonda02&layout=compact)](https://github.com/hyeonda02/github-readme-stats)
 
