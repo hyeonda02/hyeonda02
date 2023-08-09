@@ -6,7 +6,7 @@
 
  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyeonda02&count_bg=%23EE8181&title_bg=%23FFC2E8&icon=&icon_color=%23E7E7E7&title=%E2%99%A1+hits&edge_flat=false)](https://hits.seeyoufarm.com)
  <a href="https://hyeonda02.github.io/"><img src="https://img.shields.io/badge/My blog-A9BCF5?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=https://hyeondaya.tistory.com/m/"/></a>
-<a href="인스타그램 주소" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+
 <hr>
 </div>
 
