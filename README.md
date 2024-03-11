@@ -2,9 +2,7 @@
 <div align = left>
 
 #### 💕Hello I'm Dahyeon 👋 
- <a href="https://hyeonda02.github.io/"><img src="https://img.shields.io/badge/jekyll-CC0000?style=flat-square&logo=jekyll&logoColor=white&link=https://hyeonda02.github.io/"/></a>
 
-<hr>
 </div>
 
 ##### 🌱 Interested in
